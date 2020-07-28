@@ -1,5 +1,4 @@
 .header {
-    align-content: center;
     text-align: center;
     background-color: ghostwhite;
     max-width: 500px;
@@ -21,7 +20,6 @@ a {
     border: 5px;
     border-color: black;
     font-size: 40px;
-    align-self: right;
     float: right;
 }
 
@@ -34,7 +32,6 @@ a:hover {
     width: auto;
     height: 100px;
     background-color: red;
-    align-content: right;
     border: 20px;
     border-color: black;
     padding: 30px;
